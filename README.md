@@ -9,8 +9,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 * [The Genius of Einstein: The Science, His Brain, the Man](https://www.youtube.com/watch?v=DPPnrDdNoUU)
 * [The Creative Brain](https://www.youtube.com/watch?v=5gSmcL1CJMQ) 
 * Abstract: The Art of Design (Netflix) - see the Neri Oxman episode.. From various art fields.. Everything’s pretty good. Haven’t watched this myself but I got this from my Tita Lisa. 
-* Chef’s Table - “it’s not really a cooking show as it is about 50 top chiefs and how they got to be where they are now. I love that a lot of them  drew from their roots, went back to them and have found ways to bring them into the present... “ You might want to start with the episodes on Albert Adria and mashama bailey
-
+* Chef’s Table - “it’s not really a cooking show as it is about 50 top chiefs and how they got to be where they are now. I love that a lot of them  drew from their roots, went back to them and have found ways to bring them into the present... “ You might want to start with the episodes on Albert Adria and mashama bailey. Also from Tita Lisa.
 
 ## Short Videos & Articles
 
