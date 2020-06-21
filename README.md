@@ -14,8 +14,8 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 
 ## Short Videos & Articles
 
-* [Richard Feynman: "Take the World from Another Point of View"](https://www.youtube.com/watch?v=Yq3Uursli4I)
-* [Science & the power of imagination](https://youtu.be/g6UK6U_Icw8)- interview with Joe Rohde, Disney's chief imagineer, responsible for designing theme parks and hotels. I'm still trying to see if there's a copy of the full speech from ASPAC2015 in the Mind Museum. Here he also talks about designing theme parks and also communicating difficult topics such climate change and discrimination. His [answer](https://youtu.be/g6UK6U_Icw8?t=301) is quite interesting. 
+* 🔴 :red_circle: [Richard Feynman: "Take the World from Another Point of View"](https://www.youtube.com/watch?v=Yq3Uursli4I)
+* 🔴 :red_circle: [Science & the power of imagination](https://youtu.be/g6UK6U_Icw8)- interview with Joe Rohde, Disney's chief imagineer, responsible for designing theme parks and hotels. I'm still trying to see if there's a copy of the full speech from ASPAC2015 in the Mind Museum. Here he also talks about designing theme parks and also communicating difficult topics such climate change and discrimination. His [answer](https://youtu.be/g6UK6U_Icw8?t=301) is quite interesting. 
 * [Creativity and the human mind](https://youtu.be/aGVokdcs9n0) - interview with Nancy Andreasen, author of the [The Creative Brain](https://www.amazon.co.uk/CREATIVE-BRAIN-Science-Nancy-Andreasen/dp/0452287812). Waiting for full speech from ASPAC as well.
 * [Brain Pickings What is Creativity?](https://www.brainpickings.org/2013/09/06/what-is-creativity/)
 * [The Art of Creativity by Taika Waitit](https://www.youtube.com/watch?v=pL71KhNmnls)
@@ -33,8 +33,8 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 
 ## Books 
 
-* Science Solitaire - contains some articles on Science Writing, Creativity, Arts and Sciences. 
-* Creativity Inc. by Ed Catmull 
+* 🔴 :red_circle: Science Solitaire - contains some articles on Science Writing, Creativity, Arts and Sciences. 
+* 🔴 :red_circle: Creativity Inc. by Ed Catmull 
 * Design is Storytelling by Ellen Lupton 
 * The Imaginary World of ____INSERT_NAME_HERE____ by Keri Smith
 * The Art and Craft of Problem Solving by Paul Zeitz
@@ -49,7 +49,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 
 
 ## IG Profiles 
-* [artsciencemuseumsg](https://www.instagram.com/artsciencemuseumsg/?hl=en) - there are a bunch of featured asian artists here 
+* 🔴 :red_circle: [artsciencemuseumsg](https://www.instagram.com/artsciencemuseumsg/?hl=en) - there are a bunch of featured asian artists here 
 * [bgcartscenter](https://www.instagram.com/bgcartscenter/?hl=en)
 * [artsatbgc](https://www.instagram.com/artsatbgc/?hl=en)
 
