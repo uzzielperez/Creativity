@@ -18,7 +18,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 * 🔴 :red_circle: [Science & the power of imagination](https://youtu.be/g6UK6U_Icw8)- interview with Joe Rohde, Disney's chief imagineer, responsible for designing theme parks and hotels. I'm still trying to see if there's a copy of the full speech from ASPAC2015 in the Mind Museum. Here he also talks about designing theme parks and also communicating difficult topics such climate change and discrimination. His [answer](https://youtu.be/g6UK6U_Icw8?t=301) is quite interesting. 
 * [Creativity and the human mind](https://youtu.be/aGVokdcs9n0) - interview with Nancy Andreasen, author of the [The Creative Brain](https://www.amazon.co.uk/CREATIVE-BRAIN-Science-Nancy-Andreasen/dp/0452287812). Waiting for full speech from ASPAC as well.
 * [Brain Pickings What is Creativity?](https://www.brainpickings.org/2013/09/06/what-is-creativity/)
-* [The Art of Creativity by Taika Waitit](https://www.youtube.com/watch?v=pL71KhNmnls)
+* [The Art of Creativity by Taika Waititi](https://www.youtube.com/watch?v=pL71KhNmnls)
 
 ### Miscellaneous Links 
 
