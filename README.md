@@ -38,6 +38,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 * The Imaginary World of ____INSERT_NAME_HERE____ by Keri Smith
 * The Art and Craft of Problem Solving by Paul Zeitz
 * Clean Code 
+* Thinking Fast and Slow by Daniel Kahneman (Currently reading)
 
 ## Indirect Books
 
