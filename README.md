@@ -2,7 +2,8 @@
 
 Here are some resources on Creativity with a special emphasis on contributions from Black, Indigenous, and People of Color (BIPOC). 
 I'll keep adding some stuff here as I collect some suggestions from friends. Most of the things here are from other people and I haven't seen them myself. 
-Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff. 
+Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
+ 
 
 ## Documentaries
 
@@ -39,7 +40,12 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 * The Art and Craft of Problem Solving by Paul Zeitz
 * Clean Code: A Handbook of Agile Software Craftmanship 
 * Thinking Fast and Slow by Daniel Kahneman (Currently reading)
-
+* The Art of Creative Thinking by John Adair 
+* Big Magic: Creative Living Beyond Fear by Elizabeth Gilbert
+* The War of Art: Break Through the Block and Win Your Inner Creative Battles by Steven Pressfield
+* Steal Like An Artist: 10 things nobody told you about being creative by Austin Kleon
+* MasterMind:How to think like Sherlock Holmes by Maria Konnikova
+ 
 ## Indirect Books
 
 
