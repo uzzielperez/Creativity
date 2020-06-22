@@ -34,6 +34,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 
 * 🔴 :red_circle: Science Solitaire by Maria Isabel Garcia - contains some articles on Science Writing, Creativity, Arts and Sciences. (I can share drive containing some of these but need author's permission :stuck_out_tongue:) 
 * 🔴 :red_circle: Creativity Inc. by Ed Catmull 
+* Imagine: How Creativity works by Jonah Lehrer
 * Design is Storytelling by Ellen Lupton 
 * The Imaginary World of ____INSERT_NAME_HERE____ by Keri Smith
 * The Art and Craft of Problem Solving by Paul Zeitz
