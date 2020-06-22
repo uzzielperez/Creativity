@@ -37,7 +37,7 @@ Feel free to send an PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 * Design is Storytelling by Ellen Lupton 
 * The Imaginary World of ____INSERT_NAME_HERE____ by Keri Smith
 * The Art and Craft of Problem Solving by Paul Zeitz
-* Clean Code 
+* Clean Code: A Handbook of Agile Software Craftmanship 
 * Thinking Fast and Slow by Daniel Kahneman (Currently reading)
 
 ## Indirect Books
