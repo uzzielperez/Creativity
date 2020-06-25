@@ -22,6 +22,8 @@ Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff.
 
 ### Miscellaneous Links 
 
+* :sparkles: :red_circle:  [The Best of Octavia Butler's "Positive Obsession" Essay](https://elbaflamenco.com/2017/05/21/the-best-of-octavia-butlers-positive-obsession-essay/)
+* [My Unlikely path to Afrofuturism](https://southwritlarge.com/articles/my-unlikely-path-to-afrofuturismhttps://southwritlarge.com/articles/my-unlikely-path-to-afrofuturism/) 
 * [Arts Science Museum Singapore](https://www.marinabaysands.com/museum.html)
 * [Math Education and creativity in Singapore](http://www.oecd.org/education/ceri/04%20Ridzuan_Singapore.pdf)
 * [Creativity and Government Funding](https://unctad.org/en/PublicationsLibrary/ditcted2017d4_en.pdf)
