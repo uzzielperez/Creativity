@@ -50,7 +50,7 @@ Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff.
  
 ## Indirect Books
 
-
+* :red_circle: :red_circle: :sparkles: :sparkles: [Why should you read sci-fi superstar Octavia E. Butler](https://www.youtube.com/watch?v=X6YI8lsjJJA&t=86s)
 * I Know Why the Caged Bird Sings by Maya Angelou - "I Know Why the Caged Bird Sings by Maya Angelou was transformative to me when I read it. In that memoir, she shows how one can combine resilience, perseverence, and creativity to turn a life of pain into one where beauty can be found even in the darkest aspects.” - P.D. 
 * Fiction - Short stories of Zadie Smith and W.E.B. Du Bois (also recommended by P.D.)
 * [Ladlad: An Anthology of Philippine Gay Writing](https://play.google.com/books/reader?id=1zWWDwAAQBAJ&hl=en&pg=GBS.PT18.w.0.0.232)
