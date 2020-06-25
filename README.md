@@ -2,7 +2,7 @@
 
 Here are some resources on Creativity with a special emphasis on contributions from Black, Indigenous, and People of Color (BIPOC). 
 I'll keep adding some stuff here as I collect some suggestions from friends. Most of the things here are from other people and I haven't seen them myself. 
-Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff.
+Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff. New stuff :sparkles:! 
  
 
 ## Documentaries
