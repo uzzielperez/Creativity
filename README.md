@@ -36,6 +36,7 @@ Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff. Ne
 ## Books 
 
 * 🔴 :red_circle: Science Solitaire by Maria Isabel Garcia - contains some essays on Science Writing, Creativity, Arts and Sciences. (I can share drive containing some of these but need author's permission :stuck_out_tongue:) 
+* :red_circle::red_circle: Born a Crime by Trevor Noah. For anyone interested in comedy, growing up in South Africa and studying in a Catholic School, I particularly recommend Chapter 6 on Loopholes 
 * 🔴 :red_circle: Creativity Inc. by Ed Catmull 
 * Design is Storytelling by Ellen Lupton 
 * The Imaginary World of ____INSERT_NAME_HERE____ by Keri Smith
