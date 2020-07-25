@@ -14,6 +14,7 @@ Feel free to send a PR or email me at <cperez3@crimson.ua.edu> for new stuff. Ne
 
 ## Short Videos & Articles
 
+* [Eight marvelous and melancholy things I've learned about creativity](https://theoatmeal.com/comics/creativity_things)
 * 🔴 :red_circle: [Richard Feynman: "Take the World from Another Point of View"](https://www.youtube.com/watch?v=Yq3Uursli4I)
 * 🔴 :red_circle: [Science & the power of imagination](https://youtu.be/g6UK6U_Icw8)- interview with Joe Rohde, Disney's chief imagineer, responsible for designing theme parks and hotels. I'm still trying to see if there's a copy of the full speech from ASPAC2015 in the Mind Museum. Here he also talks about designing theme parks and also communicating difficult topics such climate change and discrimination. His [answer](https://youtu.be/g6UK6U_Icw8?t=301) is quite interesting. 
 * [Creativity and the human mind](https://youtu.be/aGVokdcs9n0) - interview with Nancy Andreasen, author of the [The Creative Brain](https://www.amazon.co.uk/CREATIVE-BRAIN-Science-Nancy-Andreasen/dp/0452287812). Waiting for full speech from ASPAC as well.
